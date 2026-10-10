@@ -1,0 +1,513 @@
+# Retro Food Illustration Prompts
+## 复古潮流美食插画 AI 生成提示词库
+
+> Retro Food Illustration · Flat Vector · Vintage Food Poster · Kawaii Food Sticker
+
+本项目收录复古潮流美食插画风格的 AI 图像生成提示词（Prompts），适用于美食海报、餐饮品牌视觉、食品包装、卡通 IP、潮流贴纸及文创周边设计。
+
+整体视觉融合欧美复古商业插画、中国街头美食文化、扁平矢量图形和潮流贴纸设计语言。
+
+---
+
+## 01｜风格定位 Style Overview
+
+### 核心画风
+
+**复古潮流美食插画 + 扁平矢量插画 + 欧美复古贴纸感 + 中国地方美食视觉**
+
+英文风格名称：
+
+- Retro Food Illustration
+- Flat Vector Illustration
+- Vintage Food Poster
+- Kawaii Cartoon Food
+- Food Sticker Illustration
+- Chinese Street Food Illustration
+- Hand-drawn Graphic Illustration
+
+### 核心视觉特征
+
+| 设计维度 | 风格特征 |
+|---|---|
+| 插画类型 | 复古商业插画、扁平矢量插画 |
+| 线条表现 | 粗厚深棕色描边、手绘轮廓 |
+| 造型特征 | 圆润夸张、几何概括、卡通化 |
+| 色彩风格 | 高饱和、高对比、复古暖色系 |
+| 上色方式 | 平涂色块、少量阴影与高光 |
+| 立体程度 | 弱化体积塑造，保留简单明暗 |
+| 细节表现 | 简化食材纹理，突出图形识别 |
+| 排版语言 | 复古字体、英文标签、趣味贴纸 |
+| 整体气质 | 年轻、活泼、复古、有趣 |
+
+---
+
+## 02｜核心关键词 Keywords
+
+### 英文关键词
+
+```text
+retro food illustration,
+flat vector illustration,
+bold dark outlines,
+kawaii cartoon food,
+vintage Chinese food poster,
+food sticker illustration,
+hand-drawn graphic style,
+simplified geometric shapes,
+high saturation colors,
+limited color palette,
+minimal shading,
+clean flat colors,
+playful proportions,
+retro typography,
+vintage food packaging,
+2D graphic illustration
+```
+
+### 中文关键词
+
+```text
+复古潮流美食插画，
+扁平矢量插画，
+粗厚深色描边，
+可爱卡通食物，
+中国街头美食视觉，
+复古食品包装插画，
+潮流贴纸风格，
+手绘图形感，
+圆润夸张造型，
+几何化食材，
+高饱和配色，
+大面积平涂色块，
+少量阴影，
+弱化立体塑造，
+二维装饰插画
+```
+
+---
+
+## 03｜通用生成提示词 Universal Prompt
+
+### 中文 Prompt
+
+```text
+复古潮流美食插画，扁平矢量插画风格，可爱的卡通美食图形，具有中国街头美食海报的视觉特点。
+
+使用粗厚的深棕色手绘描边，圆润夸张的造型，食物比例略微夸张，简化复杂细节，将食材概括为清晰的几何色块。
+
+高饱和鲜艳配色，以中国红、橙红色、明黄色、绿色、米白色为主，局部使用深棕色平衡画面。
+
+采用大面积平涂上色，局部加入少量简单高光、短阴影和装饰纹理线条，不使用真实摄影质感，不使用复杂渐变。
+
+整体具有复古食品包装插画、街头美食招贴、潮流贴纸、90年代复古商业插画的视觉感觉。
+
+画面活泼、可爱、年轻，富有视觉冲击力，同时具有专业平面设计感。
+
+食物边缘清晰，轮廓强烈，色块干净，构图饱满，具有设计师手绘商业插画的视觉特征。
+
+强调二维平面图形、装饰性构成和整体视觉统一。
+```
+
+### English Prompt
+
+```text
+Retro food illustration, flat vector illustration,
+cute kawaii cartoon food graphics,
+inspired by vintage Chinese street food posters.
+
+Bold dark brown hand-drawn outlines,
+rounded and exaggerated proportions,
+simplified geometric food shapes,
+clean and recognizable graphic silhouettes.
+
+High saturation color palette,
+Chinese red, orange red, bright yellow,
+vibrant green, warm cream white,
+and dark brown accents.
+
+Large areas of flat colors,
+minimal highlights and simple shadows,
+limited decorative texture lines,
+no realistic food photography,
+no complex gradients.
+
+Inspired by vintage food packaging,
+retro street food advertisements,
+90s commercial illustrations,
+and trendy food sticker designs.
+
+Playful, youthful, colorful,
+visually striking and highly graphic.
+
+Clean edges, strong outlines,
+simplified details,
+professional hand-drawn illustration aesthetics,
+2D decorative composition,
+consistent visual language.
+```
+
+---
+
+## 04｜麻辣烫与火锅专用提示词
+
+### Chinese Hot Pot & Malatang Prompt
+
+```text
+中国街头美食主题复古潮流插画，
+以麻辣烫、麻辣火锅为核心视觉主体。
+
+画面包含火锅碗、毛肚、牛肉、鸭血、
+午餐肉、鱼豆腐、香菇、方便面、
+青菜、辣椒、蘸料及饮料等食物元素。
+
+所有食物以可爱的卡通方式进行图形化表现，
+具有复古潮流食品插画的视觉语言。
+
+扁平矢量插画，
+粗厚深棕色描边，
+圆润夸张的造型，
+食材简化成清晰的大色块和几何形状。
+
+使用高饱和中国红、橙色、黄色、
+绿色、米白色和深棕色配色。
+
+采用大面积平涂上色，
+少量平面阴影和简单高光，
+不使用复杂渐变，
+不追求真实食物质感。
+
+辣椒、汤汁和食材可以采用适度夸张、
+具有节奏感的装饰性构图。
+
+汤汁使用简洁流畅的平面色块表现，
+减少细碎飞溅和复杂液体反光。
+
+具有复古中国美食包装、
+街头餐饮贴纸和90年代商业插画的感觉。
+
+画面热闹、可爱、年轻，
+具有地方美食文化特色和强烈视觉冲击力。
+
+重点突出平面设计感、
+食物图形识别度和色彩统一性。
+```
+
+---
+
+## 05｜色彩规范 Color Palette
+
+推荐使用复古暖色系与高饱和撞色组合。
+
+| 色彩名称 | HEX | 使用建议 |
+|---|---|---|
+| 中国红 | `#D60A2F` | 海报主背景 |
+| 活力橙 | `#F46B16` | 食物主体、装饰 |
+| 明黄色 | `#FFC928` | 标签、标题、点缀 |
+| 鲜绿色 | `#35A842` | 蔬菜、辅助元素 |
+| 奶油白 | `#FFF0D5` | 餐具、留白与高光 |
+| 深棕色 | `#57332A` | 外轮廓、结构线 |
+
+以上为推荐参考色值，可根据实际项目调整，不要求机械套用。
+
+### 配色原则
+
+- 以红色和橙色建立主要视觉氛围。
+- 使用黄色制造局部视觉焦点。
+- 绿色用于食材与辅助图形。
+- 米白色缓解高饱和颜色带来的视觉压力。
+- 使用深棕色代替纯黑色描边，使画面更柔和。
+- 控制色彩数量，保证系列插画的一致性。
+
+---
+
+## 06｜线条与造型规范
+
+### 描边 Outlines
+
+```text
+粗厚的深棕色外轮廓，
+描边宽度基本统一，
+曲线圆润流畅，
+具有轻微手绘感，
+减少复杂内部线条，
+突出清晰的食物外形。
+```
+
+### 造型 Shapes
+
+```text
+圆润夸张的食物比例，
+高度概括的几何形状，
+简化真实食物结构，
+优先保证图形识别性，
+弱化真实透视和复杂空间关系。
+```
+
+### 上色 Shading
+
+```text
+平涂上色，
+大面积干净色块，
+少量明暗分区，
+局部简单高光，
+不使用复杂厚涂，
+不使用强烈环境反射，
+不强调真实体积。
+```
+
+---
+
+## 07｜构图规范 Composition
+
+### 海报构图
+
+```text
+采用复古美食商业海报构图，
+主体食物具有夸张比例，
+主体集中于画面中部或下方，
+周围搭配少量独立美食插画元素。
+
+整体构图饱满但不拥挤，
+具有明确的视觉层次与阅读顺序。
+
+顶部保留约三分之一的干净背景空间，
+用于后续品牌标题和字体设计。
+
+画面中的元素大小形成节奏变化，
+避免所有元素平均排列。
+
+使用统一描边、色彩和造型方式，
+保证整组素材的风格一致性。
+```
+
+### 独立贴纸构图
+
+```text
+单个食物作为视觉主体，
+主体完整居中，
+形态圆润夸张，
+结构清晰，
+适合制作食品贴纸、包装图案和文创插画。
+
+减少复杂背景，
+不裁切主体，
+保持轮廓完整，
+便于后续提取为透明背景素材。
+```
+
+---
+
+## 08｜负面提示词 Negative Prompt
+
+### 中文
+
+```text
+避免写实摄影，
+避免真实食物照片质感，
+避免3D建模，
+避免复杂立体渲染，
+避免塑料质感，
+避免金属高光，
+避免玻璃质感，
+避免强烈镜面反射，
+避免复杂渐变，
+避免过度厚涂，
+避免复杂光影，
+避免过度体积塑造，
+避免油画笔触，
+避免水彩晕染，
+避免复杂食物肌理，
+避免细碎纹理，
+避免低饱和灰暗色彩，
+避免细线描边，
+避免真实透视，
+避免复杂背景，
+避免过度细节。
+```
+
+### English
+
+```text
+photorealistic,
+realistic food photography,
+3D render,
+CGI,
+complex lighting,
+dramatic realistic shadows,
+glossy plastic texture,
+metallic reflections,
+glass material rendering,
+excessive highlights,
+complex gradients,
+heavy painterly shading,
+oil painting,
+watercolor,
+realistic perspective,
+hyper detailed textures,
+low saturation,
+thin outlines,
+cluttered background,
+over-rendered illustration
+```
+
+---
+
+## 09｜系列风格一致性规范
+
+当需要生成多张美食主题海报或系列素材时，建议固定以下视觉参数。
+
+### 保持统一
+
+1. 所有主体使用相近的粗描边宽度。
+2. 主体造型均采用圆润、夸张的二维图形。
+3. 食材内部只保留必要的色块和结构线。
+4. 每张插画使用统一的复古高饱和配色。
+5. 避免部分元素过度立体而其他元素完全扁平。
+6. 光影统一采用少量简单明暗分区。
+7. 装饰标签、字体和图形保持相同的设计语言。
+8. 汤汁、饮料和液体使用简洁的色块表达。
+9. 统一轮廓清晰度、线条平滑程度和细节密度。
+10. 以平面商业插画为核心，而非写实绘画。
+
+### 系列统一补充 Prompt
+
+```text
+保持整组作品高度统一的复古潮流美食插画风格。
+
+统一粗厚深棕色描边，
+统一高饱和暖色系，
+统一圆润夸张的食物造型，
+统一扁平色块上色方式，
+统一少量明暗塑造。
+
+所有元素具有一致的视觉复杂度、
+线条粗细和图形化程度。
+
+避免单个主体出现明显不同的绘画风格。
+```
+
+---
+
+## 10｜适用设计场景 Applications
+
+本提示词适用于以下视觉设计方向：
+
+- 美食主题视觉海报
+- 餐饮品牌视觉识别
+- 地方文化旅游美食宣传
+- 美食节与市集活动主视觉
+- 餐饮包装图案
+- 饮料杯与食品包装
+- 食品卡通 IP
+- 潮流食品贴纸
+- 亚克力冰箱贴
+- 文创周边产品
+- 社交媒体宣传配图
+- 美食主题导视系统
+
+---
+
+## 11｜使用方法 Usage
+
+### Step 1：确定主体
+
+选择需要生成的美食或餐饮物品，例如：
+
+```text
+麻辣烫、麻辣火锅、红豆冰饮、
+鸭血、牛肉卷、方便面、青菜、
+鱼豆腐、香菇、辣椒、蘸料。
+```
+
+### Step 2：组合提示词
+
+推荐使用以下结构：
+
+```text
+主体内容
++
+通用风格 Prompt
++
+色彩规范
++
+构图要求
++
+系列风格一致性规范
++
+负面提示词
+```
+
+### Step 3：选择输出类型
+
+根据用途补充不同的输出要求。
+
+**海报：**
+
+```text
+竖版商业海报构图，
+主体集中于画面中下部，
+顶部预留文字排版空间，
+具有复古美食招贴视觉效果。
+```
+
+**独立素材：**
+
+```text
+单个完整的卡通食物元素，
+主体居中，
+轮廓完整，
+纯色或透明背景，
+适合后期抠图和独立排版。
+```
+
+**贴纸：**
+
+```text
+复古美食贴纸插画，
+轮廓完整，
+色彩鲜艳，
+具有强烈的图形识别性，
+适用于印刷贴纸和亚克力周边。
+```
+
+---
+
+## 12｜关键风格总结
+
+最重要的五组核心提示词：
+
+```text
+Retro Food Illustration
+Flat Vector Illustration
+Bold Dark Outlines
+Simplified Geometric Shapes
+High Saturation Colors
+```
+
+核心设计原则：
+
+> 视觉重点是平面图形设计，而非真实食物绘画。所有食物都经过高度概括与图形化处理，使用粗厚轮廓和干净色块表达形态，内部仅保留少量装饰线条及明暗分区，避免写实纹理、复杂光影与3D渲染。
+
+---
+
+## 13｜项目说明 Project Notes
+
+本仓库主要用于整理、记录和复用复古美食插画相关 AI 提示词，为视觉传达设计、品牌设计和文创设计提供参考。
+
+AI 生成结果可作为设计探索、辅助创作或素材初稿，最终作品应根据具体项目需求进行人工筛选、修改与排版。
+
+如用于设计比赛或商业项目，应根据活动规则及所用 AI 工具的使用条款进行必要的说明与审核。
+
+---
+
+## License & Usage
+
+本 README 中的提示词可作为个人学习、设计实验和创作参考。
+
+参考图片、字体、品牌标志及 AI 生成内容的实际使用权限，应根据各自来源和适用条款判断。
+
+---
+
+**Retro Food Illustration Prompts**
+
+*Vintage Food · Flat Graphics · Bold Outlines · Playful Design*
